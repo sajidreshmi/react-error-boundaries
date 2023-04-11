@@ -1,5 +1,5 @@
 import {rest} from 'msw'
-import {Circuit} from '../circuits'
+import { Circuit } from '../interface/Circuit'
 
 interface GetCircuitResponseError {
   message: string

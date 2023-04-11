@@ -1,5 +1,5 @@
 import React from 'react'
-import {Circuit} from '../circuits'
+import { Circuit } from '../interface/Circuit'
 import styles from '../styles/circuits.module.scss'
 
 const CircuitDetails = ({circuit}: {circuit: Circuit}) => {
